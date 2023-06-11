@@ -1,0 +1,2 @@
+- install dependencies dengan perintah `yarn install`
+- lakukan migrasi database dengan perintah `yarn dev`
